@@ -19,6 +19,14 @@ nav {
   background-color: white;
 }
 
+docu {
+  gap: 50px;
+  font-size: 18px;
+  font-family: Staatliches, regular;
+  letter-spacing: 0px;
+  /*gap: 10px;*/
+}
+
 ul {
   padding: 0;
   margin: auto;
@@ -27,7 +35,12 @@ ul {
   display: flex;
   gap: 50px;
   font-size: 18px;
+  font-family: Tourney, semibold;
+  letter-spacing: 2px;
+  color: black;
+
 }  
+
 li {
   align-content: center; /*о богі*/
 }
