@@ -1,0 +1,23 @@
+
+
+body {
+  background-color: bisque;
+}
+
+header {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  width: 1440;
+}
+
+nav {
+  margin: auto;
+  width: 790px;
+  background-color: white;
+}
+
+ul {
+  padding: 1%;
+  list-style: none;
+}  
