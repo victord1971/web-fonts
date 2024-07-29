@@ -38,9 +38,20 @@ ul {
   font-family: Tourney, semibold;
   letter-spacing: 2px;
   color: black;
-
 }  
 
 li {
   align-content: center; /*о богі*/
 }
+
+chaps {
+  margin: auto;
+  width: 1440px;
+  background-color: white;
+}
+
+navw {
+  margin: auto;
+  width: 1200px;
+}
+
